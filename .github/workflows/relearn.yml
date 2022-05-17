@@ -2,7 +2,7 @@ name: relearn
 
 on:
   schedule:
-    - cron: '15 04 * * *' # 22:00 JST
+    - cron: '30 09 * * *' # 22:00 JST
 
 jobs:
   start:
